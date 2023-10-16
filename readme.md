@@ -6,5 +6,7 @@
 
 <p> Choose a character for loop
 
+this is a algo for making triangle using python
+
  </p>
 </p>
